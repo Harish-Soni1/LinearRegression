@@ -1,3 +1,8 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+%matplotlib inline
+
 ## calories dataset
 
 df1=pd.read_csv("E:\\itsstudytym\\assignments\\SLR\\calories_consumed SLR.csv")
